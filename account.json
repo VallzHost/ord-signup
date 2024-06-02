@@ -6,5 +6,13 @@
     "total_pengeluaran": 1000,
     "status": true,
     "account_create": "2024-04-12 11:13"
+  },
+  "Vallz°6285641225753": {
+    "password": "vallzogfc17",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-06-02 11:13"
   }
 }
